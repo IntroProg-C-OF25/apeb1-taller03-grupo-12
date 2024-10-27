@@ -4,4 +4,5 @@ public class Ejercicio2 {
         respuesta = Math.pow(10,2)+10;
                 System.out.println("respuesta = " + respuesta);
     }
+
 }
